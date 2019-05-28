@@ -1,0 +1,6 @@
+springbootrest\application\service\EmployeeService.class
+springbootrest\application\DemoApplication.class
+springbootrest\application\model\Employee.class
+springbootrest\application\model\EmployeeDetails.class
+springbootrest\application\data\EmployeeData.class
+springbootrest\application\controller\EmployeeResource.class
